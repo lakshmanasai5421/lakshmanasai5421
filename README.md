@@ -42,21 +42,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🟢 [Pistachio Variety Classification](https://github.com/lakshmanasai5421/Pistachio-Variety-Classification-Using-Machine-Learning)
-> Classifies pistachio nut types using ML algorithms (Logistic, Decision Tree, XGBoost, Gradient Boost)
-
-#### 📈 [Smart Stock Predictions](https://github.com/lakshmanasai5421/Smart-Stock-Predictions-with-ML)
-> Combines ARIMA, LSTM & Linear Regression for time series forecasting and trend analysis
-
-#### 🍽 [Zomato Data Analysis](https://github.com/lakshmanasai5421/Zomato-Data-Analysis)
-> EDA and business insights from Zomato restaurant data – costs, ratings, and user behavior
-
-#### 📰 [Fake News Classifier](https://github.com/lakshmanasai5421/NEWS-CLASSIFICATION)
-> NLP-based classification model using TF-IDF and Logistic Regression for news legitimacy
-
----
 
 ### 🏆 Achievements
 
