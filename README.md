@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science (2021–2025)
+- 🎓 B.Tech in Artificial Intelligence & Data Science 
 - 💡 Passionate about real-world problem-solving using ML & Data Analysis
 - 🧪 Experience with data preprocessing, model building, EDA, and web deployment
 - 📊 Currently training at **Dr. Reddy’s Foundation** on Data Science technologies
