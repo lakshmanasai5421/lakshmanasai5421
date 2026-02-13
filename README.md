@@ -63,7 +63,7 @@
 
 - 📧 **Email:** lakshmanasai.karumuri2k22@gmail.com  
 - 💼 **LinkedIn:** [lakshmana-sai-karumuri](https://www.linkedin.com/in/lakshmana-sai-karumuri-816538265/)  
-- 🌍 **Portfolio:** [[remarkable-cascaron.netlify.app](https://lakshmanasai-b8de7.web.app/)]([https://remarkable-cascaron-f20151.netlify.app/](https://lakshmanasai-b8de7.web.app/))  
+- 🌍 **Portfolio:** https://lakshmanasai-b8de7.web.app/  
 - 🧑‍💻 **GitHub:** [@lakshmanasai5421](https://github.com/lakshmanasai5421)
 
 ---
