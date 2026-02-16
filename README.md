@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karumuri Lakshmana Sai</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">Data Scientist | NLP Engineer | Machine Learning Developer</h3>
 
 <p align="center">
   <a href="mailto:lakshmanasai.karumuri2k22@gmail.com">
@@ -11,59 +11,92 @@
   <a href="https://github.com/lakshmanasai5421">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://remarkable-cascaron-f20151.netlify.app/">
+  <a href="https://lakshmanasai-b8de7.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 Professional Summary
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science 
-- 💡 Passionate about real-world problem-solving using ML & Data Analysis
-- 🧪 Experience with data preprocessing, model building, EDA, and web deployment
-- 📊 Completed training at **Dr. Reddy’s Foundation** on Data Science technologies
-- 💻 Former Intern at **Plumsoft (Python)** and **VMTS Pharma (Angular)**
+🎓 B.Tech in Artificial Intelligence & Data Science (2025 Graduate)  
+🔍 Specialized in **NLP, Machine Learning, and Predictive Modeling**  
+📊 Passionate about transforming structured & unstructured data into actionable business insights  
 
----
-
-### ⚙️ Skills & Tools
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Seaborn](https://img.shields.io/badge/Seaborn-3B4D64?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+I build scalable ML pipelines, transformer-based NLP systems, and deployable backend ML services using Flask and FastAPI.
 
 ---
 
+## 💼 Professional Experience
 
-### 🏆 Achievements
+### 🏢 Data Science Trainee – Dr Reddy Tech Foundation
+- Built NLP pipelines for sentiment analysis & named entity recognition
+- Improved model accuracy by 15% through preprocessing optimization
+- Reduced data processing errors by 20% using structured Git workflows
+- Performed EDA and predictive modeling for multi-domain datasets
 
-- 🥈 2nd Place – Technical Quiz @ VR Siddhartha Engineering College
-- 🧠 Tata Imagination Challenge – Student Track 2024
-- 💡 Hackathon Participant – PSCMR College of Engineering
+### 🏢 Python Developer Intern – Plumsoft
+- Developed and deployed Flask applications with REST APIs
+- Reduced API latency by 25% through backend optimization
+- Improved application reliability by 20%
+- Collaborated in a 5-member development team
+
+---
+
+## 🔬 Featured Project
+
+### 🚀 MiniLM-DNN Customer Service Text Classifier
+
+- Designed a **Transformer-based NLP pipeline** using MiniLM + SMOTE + DNN + KNN
+- Achieved **98% accuracy** in intent classification
+- Improved minority-class detection by 22%
+- Reduced feature space by 35%
+- Achieved **<150 ms inference latency**
+- Built using PyTorch, Scikit-learn, NLP preprocessing techniques
+
+👉 This project demonstrates production-level NLP system design.
 
 ---
 
-### 📜 Certifications
+## ⚙️ Technical Stack
 
-- `Data Science A-Z with Python` – Udemy  
-- `Introduction to Generative AI` – Coursera  
-- `Tata Imagination Challenge` – Tata Group
+### 🧑‍💻 Programming & Backend
+Python | Flask | Django | FastAPI | REST APIs
+
+### 🤖 Machine Learning & AI
+Scikit-Learn | TensorFlow | Keras | PyTorch  
+Feature Engineering | Model Optimization | Hyperparameter Tuning
+
+### 🧠 NLP & Transformers
+NLTK | SpaCy | BERT | MiniLM | Sentence Embeddings  
+Tokenization | Lemmatization | Transfer Learning | Multi-Class Classification
+
+### 📊 Data Analysis & Visualization
+Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel  
+EDA | Statistical Analysis | Hypothesis Testing
+
+### 🗄 Databases & Tools
+SQL | MySQL | Git | Alteryx
 
 ---
 
-### 🔗 Let’s Connect!
+## 🏆 Achievements
 
-- 📧 **Email:** lakshmanasai.karumuri2k22@gmail.com  
-- 💼 **LinkedIn:** [lakshmana-sai-karumuri](https://www.linkedin.com/in/lakshmana-sai-karumuri-816538265/)  
-- 🌍 **Portfolio:** https://lakshmanasai-b8de7.web.app/  
-- 🧑‍💻 **GitHub:** [@lakshmanasai5421](https://github.com/lakshmanasai5421)
+🥈 2nd Place – Technical Quiz @ VR Siddhartha Engineering College  
+🧠 Tata Imagination Challenge 2024 – Student Track  
+📜 Certified in Data Science A-Z (Udemy)  
+📜 Introduction to Generative AI – Coursera  
 
 ---
+
+## 📌 Career Objective
+
+Seeking a Data Scientist / NLP Engineer role where I can:
+- Design scalable ML pipelines
+- Build production-ready AI models
+- Deliver measurable business impact through data
+
+---
+
+⭐ Always open to collaboration on NLP, AI, and Data Science projects.
