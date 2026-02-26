@@ -1,11 +1,11 @@
 <h1 align="center">Karumuri Lakshmana Sai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=0E75B6&center=true&vCenter=true&width=750&lines=Data+Scientist;NLP+Engineer;Machine+Learning+Developer;AI+Systems+Builder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=1F6FEB&center=true&vCenter=true&width=700&lines=Data+Scientist;NLP+Engineer;Machine+Learning+Developer"/>
 </p>
 
 <p align="center">
-  Turning data into intelligent systems 🚀
+  Designing scalable AI systems with a focus on NLP and applied machine learning.
 </p>
 
 <p align="center">
@@ -25,53 +25,59 @@
 
 ---
 
-## About Me
+## Professional Profile
 
-I build practical AI systems with a strong focus on NLP and Machine Learning.  
-My work revolves around designing clean ML pipelines, optimizing models, and deploying backend AI services that are scalable and production-ready.
+AI and Data Science professional specializing in Natural Language Processing and machine learning system design.  
+Experienced in developing end-to-end ML pipelines, optimizing model performance, and deploying backend AI services for real-world applications.
 
-I enjoy solving real-world problems using data, improving model performance, and writing efficient Python-based solutions.
+Strong focus on model efficiency, structured experimentation, and production-oriented development.
 
 ---
 
-## What I Work With
+## Core Expertise
 
-**Languages & Backend**  
-Python • Flask • FastAPI • REST APIs  
+**Programming & Backend Development**  
+Python • Flask • FastAPI • REST API Design  
 
 **Machine Learning**  
-Scikit-Learn • TensorFlow • PyTorch • Model Optimization  
+Scikit-Learn • TensorFlow • PyTorch  
+Model Optimization • Feature Engineering • Hyperparameter Tuning  
 
-**NLP & Transformers**  
-BERT • MiniLM • SpaCy • NLTK • Text Classification • Embeddings  
+**Natural Language Processing**  
+BERT • MiniLM • SpaCy • NLTK  
+Text Classification • Embeddings • Transfer Learning  
 
 **Data & Analytics**  
-Pandas • NumPy • Matplotlib • Power BI • SQL  
+Pandas • NumPy • Matplotlib • SQL  
+Exploratory Data Analysis • Statistical Evaluation  
 
 ---
 
-## Featured Project
+## Featured Work
 
-### MiniLM Hybrid NLP Classifier
+### Transformer-Based NLP Classification System
 
-- Built transformer-based intent classification system  
-- Applied embedding optimization and hybrid modeling  
-- Designed for fast inference and high accuracy  
-- Structured as a deployable backend ML service  
+Designed and implemented a hybrid NLP pipeline leveraging MiniLM embeddings and deep learning models for multi-class intent classification.
 
-This project reflects production-level NLP system design principles.
+Key Contributions:
+- Optimized feature representation and reduced dimensional complexity  
+- Addressed class imbalance using advanced sampling techniques  
+- Achieved high predictive performance with low inference latency  
+- Structured the solution for backend deployment and scalability  
 
 ---
 
-## Experience Snapshot
+## Professional Experience
 
 **Data Science Trainee**  
-Worked on NLP pipelines, EDA, and predictive modeling.  
-Focused on improving model accuracy and data preprocessing workflows.
+- Developed NLP pipelines for sentiment analysis and entity recognition  
+- Improved model accuracy through structured preprocessing strategies  
+- Conducted predictive modeling across multi-domain datasets  
 
 **Python Developer Intern**  
-Developed backend APIs and improved system performance.  
-Worked in collaborative development environment.
+- Designed and deployed backend APIs  
+- Improved system performance and application stability  
+- Collaborated within an agile development environment  
 
 ---
 
@@ -84,15 +90,15 @@ Worked in collaborative development environment.
 
 ---
 
-## Current Focus
+## Professional Interests
 
-• Advanced NLP Systems  
-• Production ML Deployment  
-• Model Optimization  
-• AI Application Development  
+- Production-grade NLP systems  
+- Scalable ML architectures  
+- Model performance optimization  
+- Applied AI solutions  
 
 ---
 
 <p align="center">
-  Open to impactful opportunities in Data Science, NLP, and AI Engineering.
+  Open to opportunities in Data Science, NLP Engineering, and Machine Learning Development.
 </p>
