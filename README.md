@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karumuri Lakshmana Sai</h1>
-<h3 align="center">Data Scientist | NLP Engineer | Machine Learning Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00C897&center=true&vCenter=true&width=900&lines=Data+Scientist;NLP+Engineer;Machine+Learning+Developer;AI+Enthusiast"/>
+</p>
+
+<h3 align="center">Building AI solutions with Data, NLP & Machine Learning 🚀</h3>
 
 <p align="center">
   <a href="mailto:lakshmanasai.karumuri2k22@gmail.com">
@@ -20,27 +25,25 @@
 
 ## 🧠 Professional Summary
 
-🎓 B.Tech in Artificial Intelligence & Data Science (2025 Graduate)  
-🔍 Specialized in **NLP, Machine Learning, and Predictive Modeling**  
-📊 Passionate about transforming structured & unstructured data into actionable business insights  
-
-I build scalable ML pipelines, transformer-based NLP systems, and deployable backend ML services using Flask and FastAPI.
+• AI & Data Science enthusiast with strong interest in NLP and Machine Learning  
+• Experience building ML pipelines, NLP models, and backend AI services  
+• Skilled in Python, ML frameworks, data analytics, and deployment tools  
+• Passionate about solving real-world problems using AI-driven solutions  
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### 🏢 Data Science Trainee – Dr Reddy Tech Foundation
-- Built NLP pipelines for sentiment analysis & named entity recognition
-- Improved model accuracy by 15% through preprocessing optimization
-- Reduced data processing errors by 20% using structured Git workflows
-- Performed EDA and predictive modeling for multi-domain datasets
+- Developed NLP pipelines for sentiment analysis & entity recognition  
+- Improved model accuracy through preprocessing optimization  
+- Conducted exploratory data analysis and predictive modeling  
+- Maintained structured Git workflows for collaboration  
 
 ### 🏢 Python Developer Intern – Plumsoft
-- Developed and deployed Flask applications with REST APIs
-- Reduced API latency by 25% through backend optimization
-- Improved application reliability by 20%
-- Collaborated in a 5-member development team
+- Built Flask-based REST APIs and backend applications  
+- Improved API performance and application reliability  
+- Worked in collaborative agile development environment  
 
 ---
 
@@ -48,55 +51,60 @@ I build scalable ML pipelines, transformer-based NLP systems, and deployable bac
 
 ### 🚀 MiniLM-DNN Customer Service Text Classifier
 
-- Designed a **Transformer-based NLP pipeline** using MiniLM + SMOTE + DNN + KNN
-- Achieved **98% accuracy** in intent classification
-- Improved minority-class detection by 22%
-- Reduced feature space by 35%
-- Achieved **<150 ms inference latency**
-- Built using PyTorch, Scikit-learn, NLP preprocessing techniques
+- Transformer-based NLP pipeline using MiniLM embeddings  
+- Applied SMOTE + DNN + KNN hybrid modeling  
+- Achieved high classification accuracy with low latency  
+- Built with PyTorch, Scikit-learn, NLP preprocessing  
 
-👉 This project demonstrates production-level NLP system design.
+👉 Demonstrates production-ready NLP system design.
 
 ---
 
-## ⚙️ Technical Stack
+## ⚙️ Technical Skills
 
-### 🧑‍💻 Programming & Backend
+### Programming & Backend
 Python | Flask | Django | FastAPI | REST APIs
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 Scikit-Learn | TensorFlow | Keras | PyTorch  
 Feature Engineering | Model Optimization | Hyperparameter Tuning
 
-### 🧠 NLP & Transformers
-NLTK | SpaCy | BERT | MiniLM | Sentence Embeddings  
-Tokenization | Lemmatization | Transfer Learning | Multi-Class Classification
+### NLP & Transformers
+NLTK | SpaCy | BERT | MiniLM  
+Tokenization | Lemmatization | Transfer Learning
 
-### 📊 Data Analysis & Visualization
-Pandas | NumPy | Matplotlib | Seaborn | Power BI | Excel  
-EDA | Statistical Analysis | Hypothesis Testing
+### Data Analysis
+Pandas | NumPy | Matplotlib | Power BI | Excel  
+EDA | Statistical Analysis | Visualization
 
-### 🗄 Databases & Tools
+### Databases & Tools
 SQL | MySQL | Git | Alteryx
 
 ---
 
 ## 🏆 Achievements
 
-🥈 2nd Place – Technical Quiz @ VR Siddhartha Engineering College  
-🧠 Tata Imagination Challenge 2024 – Student Track  
-📜 Certified in Data Science A-Z (Udemy)  
-📜 Introduction to Generative AI – Coursera  
+🥈 Technical Quiz – VR Siddhartha Engineering College  
+🧠 Tata Imagination Challenge Participant  
+📜 Data Science Certification (Udemy)  
+📜 Generative AI Certification (Coursera)
 
 ---
 
-## 📌 Career Objective
+## 📊 GitHub Stats
 
-Seeking a Data Scientist / NLP Engineer role where I can:
-- Design scalable ML pipelines
-- Build production-ready AI models
-- Deliver measurable business impact through data
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmanasai5421&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanasai5421&theme=radical"/>
+</p>
 
 ---
 
-⭐ Always open to collaboration on NLP, AI, and Data Science projects.
+## 🎯 Career Focus
+
+✔ Data Science  
+✔ NLP Engineering  
+✔ Machine Learning Development  
+✔ AI Application Development  
+
+Always open to collaboration, learning, and building impactful AI solutions 🚀
