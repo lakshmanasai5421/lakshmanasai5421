@@ -1,66 +1,98 @@
-<h1 align="center">Hi 👋, I'm Karumuri Lakshmana Sai</h1>
-<h3 align="center">AI • Data Science • NLP • Python</h3>
+<h1 align="center">Karumuri Lakshmana Sai</h1>
 
 <p align="center">
-  <a href="mailto:lakshmanasai.karumuri2k22@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/lakshmana-sai-karumuri-816538265/">LinkedIn</a> •
-  <a href="https://github.com/lakshmanasai5421">GitHub</a> •
-  <a href="https://lakshmanasai-b8de7.web.app/">Portfolio</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=0E75B6&center=true&vCenter=true&width=750&lines=Data+Scientist;NLP+Engineer;Machine+Learning+Developer;AI+Systems+Builder"/>
+</p>
+
+<p align="center">
+  Turning data into intelligent systems 🚀
+</p>
+
+<p align="center">
+  <a href="mailto:lakshmanasai.karumuri2k22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lakshmana-sai-karumuri-816538265/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lakshmanasai5421">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://lakshmanasai-b8de7.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=flat&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I’m interested in Artificial Intelligence, Data Science, and NLP.  
-I enjoy working with data, building machine learning models, and understanding how AI systems work in real-world applications.
+I build practical AI systems with a strong focus on NLP and Machine Learning.  
+My work revolves around designing clean ML pipelines, optimizing models, and deploying backend AI services that are scalable and production-ready.
 
-I mainly work with Python, ML frameworks, NLP tools, and backend technologies.  
-Currently focused on improving my practical skills and building useful AI projects.
-
----
-
-## Experience
-
-**Data Science Trainee – Dr Reddy Tech Foundation**
-- Worked on NLP tasks like sentiment analysis and entity recognition
-- Performed data analysis and model building
-- Learned practical ML workflow and collaboration using Git
-
-**Python Developer Intern – Plumsoft**
-- Built backend applications using Flask
-- Developed REST APIs
-- Improved performance and application reliability
+I enjoy solving real-world problems using data, improving model performance, and writing efficient Python-based solutions.
 
 ---
 
-## Skills
+## What I Work With
 
-**Languages:** Python, SQL  
-**AI/ML:** Scikit-Learn, TensorFlow, PyTorch, NLP basics  
-**Data:** Pandas, NumPy, Visualization tools  
-**Backend:** Flask, FastAPI  
-**Tools:** Git, MySQL
+**Languages & Backend**  
+Python • Flask • FastAPI • REST APIs  
 
----
+**Machine Learning**  
+Scikit-Learn • TensorFlow • PyTorch • Model Optimization  
 
-## Projects Highlight
+**NLP & Transformers**  
+BERT • MiniLM • SpaCy • NLTK • Text Classification • Embeddings  
 
-**Customer Service NLP Classifier**
-- Built transformer-based text classification system
-- Applied ML + NLP preprocessing techniques
-- Focused on accuracy, performance, and deployment readiness
+**Data & Analytics**  
+Pandas • NumPy • Matplotlib • Power BI • SQL  
 
 ---
 
-## Goal
+## Featured Project
 
-Looking for opportunities in:
+### MiniLM Hybrid NLP Classifier
 
-- Data Science  
-- NLP / AI roles  
-- Python development  
+- Built transformer-based intent classification system  
+- Applied embedding optimization and hybrid modeling  
+- Designed for fast inference and high accuracy  
+- Structured as a deployable backend ML service  
 
-I’m always open to learning, collaboration, and building meaningful projects.
+This project reflects production-level NLP system design principles.
 
 ---
+
+## Experience Snapshot
+
+**Data Science Trainee**  
+Worked on NLP pipelines, EDA, and predictive modeling.  
+Focused on improving model accuracy and data preprocessing workflows.
+
+**Python Developer Intern**  
+Developed backend APIs and improved system performance.  
+Worked in collaborative development environment.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshmanasai5421&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanasai5421&hide_border=true"/>
+</p>
+
+---
+
+## Current Focus
+
+• Advanced NLP Systems  
+• Production ML Deployment  
+• Model Optimization  
+• AI Application Development  
+
+---
+
+<p align="center">
+  Open to impactful opportunities in Data Science, NLP, and AI Engineering.
+</p>
