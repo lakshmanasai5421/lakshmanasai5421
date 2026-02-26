@@ -1,84 +1,88 @@
-<h1 align="center">Hi 👋, I'm Karumuri Lakshmana Sai</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Karumuri%20Lakshmana%20Sai&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Data%20Science%20%7C%20Cloud%20Enthusiast&descAlignY=60)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=1F6FEB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Fresher;Interested+in+NLP+%26+Machine+Learning;Python+Developer"/>
-</p>
+<div align="center">
 
-<p align="center">
-  Enthusiastic about AI, data, and building practical machine learning solutions.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+%26+Data+Science+Fresher;NLP+%7C+Machine+Learning+Projects;Cloud+Computing+Learner;Terraform+%7C+Cloud+Automation;Python+Developer&font=Fira%20Code&center=true&width=650&height=50&duration=3000&pause=800)]()
 
-<p align="center">
-  <a href="mailto:lakshmanasai.karumuri2k22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lakshmana-sai-karumuri-816538265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/lakshmanasai5421">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://lakshmanasai-b8de7.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshmanasai5421)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+
+</div>
 
 ---
 
-## About Me
+# About Me
 
-I’m a fresher interested in Artificial Intelligence, Data Science, and especially Natural Language Processing.  
-I enjoy working on machine learning projects, learning new technologies, and understanding how AI systems work in real-world applications.
+I’m an AI & Data Science fresher with strong interest in **Machine Learning, NLP, and Cloud Computing**.  
+Recently, I’ve been focusing on **cloud infrastructure, networking concepts, and infrastructure automation using Terraform**.
 
-Currently focusing on improving my skills in Python, machine learning, NLP, and backend AI development.
-
----
-
-## Skills
-
-**Programming & Backend**  
-Python • Flask • FastAPI • REST APIs  
-
-**Machine Learning**  
-Scikit-Learn • TensorFlow • PyTorch  
-Model training • Feature engineering • Basic optimization  
-
-**NLP**  
-BERT • MiniLM • SpaCy • NLTK  
-Text classification • NLP preprocessing  
-
-**Data Tools**  
-Pandas • NumPy • Matplotlib • SQL • Power BI  
+I enjoy building practical AI solutions and understanding how modern cloud platforms support scalable machine learning and data-driven applications.
 
 ---
 
-## Projects Highlight
+# Tech Stack
 
-### NLP Text Classification Project
-Worked on a customer text classification system using transformer embeddings.  
-Focused on improving accuracy, handling imbalanced data, and building a deployable backend ML solution.
+## AI / Data Science
+- Python  
+- Machine Learning (Scikit-Learn, PyTorch basics)  
+- NLP (BERT, Text Classification, Preprocessing)  
+- Data Analysis (Pandas, NumPy, Matplotlib)
 
----
+## Cloud & Infrastructure
+- Cloud Computing Fundamentals  
+- Virtual Networks, Compute & Storage Basics  
+- Terraform (Infrastructure as Code)  
+- Cloud Architecture Concepts  
 
-## Experience
-
-**Data Science Trainee**  
-Worked on NLP tasks, predictive modeling, and data preprocessing.
-
-**Python Developer Intern**  
-Built backend APIs and gained exposure to real development workflows.
-
----
-
-## Current Focus
-
-- Improving NLP & ML skills  
-- Building real-world AI projects  
-- Learning deployment and production ML  
-- Exploring AI + Cloud integration  
+## Backend & Tools
+- Flask / FastAPI Basics  
+- REST APIs  
+- Git & GitHub  
+- SQL / Databases  
 
 ---
 
-<p align="center">
-  Open to entry-level opportunities in AI, Data Science, NLP, or Python Development.
-</p>
+# Projects
+
+### NLP Text Classification
+- Built ML model for text classification using NLP techniques  
+- Applied preprocessing, embeddings, and evaluation metrics  
+- Focused on improving model accuracy and usability  
+
+### Sentiment Analysis Application
+- Developed ML-based sentiment analyzer  
+- Combined data preprocessing + ML pipeline  
+- Explored deployment concepts
+
+### Cloud Learning Projects
+- Hands-on Terraform scripts for infrastructure automation  
+- Studied cloud networking, VMs, storage, and architecture basics  
+
+---
+
+# Currently Learning
+
+- Cloud Infrastructure Automation (Terraform)  
+- AI Model Deployment on Cloud  
+- NLP Advanced Techniques  
+- Cloud Networking & Security Basics  
+
+---
+
+# Career Focus
+
+- AI / Data Science Roles  
+- NLP Engineering Opportunities  
+- Cloud + AI Integration Roles  
+- Machine Learning Deployment  
+
+---
+
+<div align="center">
+
+### Open to opportunities, collaborations, and learning 🚀
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
