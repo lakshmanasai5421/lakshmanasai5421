@@ -1,11 +1,11 @@
-<h1 align="center">Karumuri Lakshmana Sai</h1>
+<h1 align="center">Hi 👋, I'm Karumuri Lakshmana Sai</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=1F6FEB&center=true&vCenter=true&width=700&lines=Data+Scientist;NLP+Engineer;Machine+Learning+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=1F6FEB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Fresher;Interested+in+NLP+%26+Machine+Learning;Python+Developer"/>
 </p>
 
 <p align="center">
-  Designing scalable AI systems with a focus on NLP and applied machine learning.
+  Enthusiastic about AI, data, and building practical machine learning solutions.
 </p>
 
 <p align="center">
@@ -25,80 +25,60 @@
 
 ---
 
-## Professional Profile
+## About Me
 
-AI and Data Science professional specializing in Natural Language Processing and machine learning system design.  
-Experienced in developing end-to-end ML pipelines, optimizing model performance, and deploying backend AI services for real-world applications.
+I’m a fresher interested in Artificial Intelligence, Data Science, and especially Natural Language Processing.  
+I enjoy working on machine learning projects, learning new technologies, and understanding how AI systems work in real-world applications.
 
-Strong focus on model efficiency, structured experimentation, and production-oriented development.
+Currently focusing on improving my skills in Python, machine learning, NLP, and backend AI development.
 
 ---
 
-## Core Expertise
+## Skills
 
-**Programming & Backend Development**  
-Python • Flask • FastAPI • REST API Design  
+**Programming & Backend**  
+Python • Flask • FastAPI • REST APIs  
 
 **Machine Learning**  
 Scikit-Learn • TensorFlow • PyTorch  
-Model Optimization • Feature Engineering • Hyperparameter Tuning  
+Model training • Feature engineering • Basic optimization  
 
-**Natural Language Processing**  
+**NLP**  
 BERT • MiniLM • SpaCy • NLTK  
-Text Classification • Embeddings • Transfer Learning  
+Text classification • NLP preprocessing  
 
-**Data & Analytics**  
-Pandas • NumPy • Matplotlib • SQL  
-Exploratory Data Analysis • Statistical Evaluation  
-
----
-
-## Featured Work
-
-### Transformer-Based NLP Classification System
-
-Designed and implemented a hybrid NLP pipeline leveraging MiniLM embeddings and deep learning models for multi-class intent classification.
-
-Key Contributions:
-- Optimized feature representation and reduced dimensional complexity  
-- Addressed class imbalance using advanced sampling techniques  
-- Achieved high predictive performance with low inference latency  
-- Structured the solution for backend deployment and scalability  
+**Data Tools**  
+Pandas • NumPy • Matplotlib • SQL • Power BI  
 
 ---
 
-## Professional Experience
+## Projects Highlight
+
+### NLP Text Classification Project
+Worked on a customer text classification system using transformer embeddings.  
+Focused on improving accuracy, handling imbalanced data, and building a deployable backend ML solution.
+
+---
+
+## Experience
 
 **Data Science Trainee**  
-- Developed NLP pipelines for sentiment analysis and entity recognition  
-- Improved model accuracy through structured preprocessing strategies  
-- Conducted predictive modeling across multi-domain datasets  
+Worked on NLP tasks, predictive modeling, and data preprocessing.
 
 **Python Developer Intern**  
-- Designed and deployed backend APIs  
-- Improved system performance and application stability  
-- Collaborated within an agile development environment  
+Built backend APIs and gained exposure to real development workflows.
 
 ---
 
-## GitHub Analytics
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmanasai5421&show_icons=true&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanasai5421&hide_border=true"/>
-</p>
-
----
-
-## Professional Interests
-
-- Production-grade NLP systems  
-- Scalable ML architectures  
-- Model performance optimization  
-- Applied AI solutions  
+- Improving NLP & ML skills  
+- Building real-world AI projects  
+- Learning deployment and production ML  
+- Exploring AI + Cloud integration  
 
 ---
 
 <p align="center">
-  Open to opportunities in Data Science, NLP Engineering, and Machine Learning Development.
+  Open to entry-level opportunities in AI, Data Science, NLP, or Python Development.
 </p>
