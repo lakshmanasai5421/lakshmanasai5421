@@ -59,22 +59,7 @@ Currently focused on:
 
 ---
 
-# Work Experience
 
-## Data Engineer — Cynosure Software Solutions *(May 2025 – Present)*
-
-- Designed and maintained **ADF-based ELT pipelines** processing ~5M records/day  
-- Built **Databricks Delta Lake transformations (Bronze → Silver → Gold)**  
-- Improved query performance by **25%**  
-- Integrated **Snowflake Streams & Tasks** for incremental data processing  
-- Secured pipelines using **Azure Key Vault & secret scopes**
-
-## Data Engineer Intern — Cynosure Software Solutions *(Jan 2025 – May 2025)*
-
-- Developed **parameterized ADF pipelines** for scalable ingestion  
-- Wrote **PySpark scripts** for data cleaning and transformation  
-- Implemented **Snowflake bulk loading workflows (COPY INTO)**  
-- Contributed to **CI/CD pipelines using GitHub Actions**
 
 ---
 
