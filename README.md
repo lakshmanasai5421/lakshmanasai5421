@@ -14,7 +14,6 @@
 
 # About Me
 
-I’m a **Data Engineer with 1+ year of experience** building scalable and reliable data pipelines on **Microsoft Azure**.
 
 I specialize in designing **ELT workflows, big data processing, and cloud-native architectures** using tools like **Apache Spark, Azure Data Factory, Databricks, and Snowflake**.
 
